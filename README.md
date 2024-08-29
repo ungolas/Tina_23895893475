@@ -1,21 +1,5 @@
 # Playground and Cheatsheet for Learning Python
 
-> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
-> - Help Ukraine via:
->   - [Serhiy Prytula Charity Foundation](https://prytulafoundation.org/en/)
->   - [Come Back Alive Charity Foundation](https://savelife.in.ua/en/donate-en/)
->   - [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-> - More info on [war.ukraine.ua](https://war.ukraine.ua/) and [MFA of Ukraine](https://twitter.com/MFA_Ukraine)
-
-<hr/>
-
-[![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
-
-> This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
-code examples with explanations, different use cases and links to further readings.
-
-> _Read this in:_ [_Português_](README.pt-BR.md), [_Español_](README.es-ES.md), [_Traditional Chinese_](README.zh-TW.md).
-
 It is a **playground** because you may change or add the code to see how it works 
 and [test it out](#testing-the-code) using assertions. It also allows you 
 to [lint the code](#linting-the-code) you've wrote and check if it fits to Python code style guide.
